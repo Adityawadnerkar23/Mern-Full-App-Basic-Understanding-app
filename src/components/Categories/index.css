@@ -1,0 +1,85 @@
+/* .img.our-categoriess {
+  width: 100%;
+} */
+.our-categoriess {
+  margin-top: 90px;
+}
+
+.our-categoriess .slick-slide {
+  padding: 0px 30px 0px 0px;
+}
+
+img.book-icon {
+  margin-left: auto;
+  display: block;
+  margin-right: auto;
+  width: 40px;
+}
+
+h3.servicetext {
+  position: relative;
+  color: #aa5858;
+  font-family: Microsoft Sans Serif;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  top: -45px;
+}
+
+.overlay123 {
+  position: absolute;
+  bottom: 30px;
+  left: 0;
+  width: 95%;
+  height: 100%;
+  background: linear-gradient(0deg, #000, #0000 66%);
+  border-radius: 15px;
+}
+
+h3.servicetext {
+  position: relative;
+  color: #fff;
+  font-family: Microsoft Sans Serif;
+  font-size: 24px;
+  font-weight: 400;
+  text-align: center;
+  top: -50px;
+  letter-spacing: 0.4px;
+}
+
+.slider-item {
+  position: relative;
+}
+
+ul.slick-dots {
+  margin-bottom: 20px;
+  position: initial;
+}
+
+h3.cat-title {
+  color: #0F7DC7;
+  font-family: Microsoft Sans Serif;
+  font-size: 30px;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 45px;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  h3.servicetext {
+    font-size: 16px;
+    top: -40px;
+  }
+
+  .our-categoriess .slick-slide {
+    padding: 5px !important;
+  }
+
+  .our-categoriess.moile-cateort {
+    margin-top: 120px;
+  }
+}
