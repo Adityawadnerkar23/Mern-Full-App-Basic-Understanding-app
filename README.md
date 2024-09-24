@@ -71,5 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # React-Example
 # Mern-Full-App-Basic-Understanding-app-
 This Project Contains 2 Branch Main-where all the **Frontend of the Project is located**.
+
 Master Contains the **Backend of the Project**
+
 # Switch between the branches
