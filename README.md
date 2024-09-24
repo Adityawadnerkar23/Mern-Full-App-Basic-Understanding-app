@@ -76,9 +76,12 @@ This Project Contains 2 Branch **Main**-where all the **Frontend of the Project 
 
 # Switch between the branches
 
-Project Preview: 
+# Project Preview: 
 
 
 
-https://github.com/user-attachments/assets/3e55e6c3-28d7-4c73-a355-1edaf34f200b
+
+
+
+https://github.com/user-attachments/assets/2c32b780-95aa-45c2-9340-6e4ae1223fb2
 
