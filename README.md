@@ -78,8 +78,6 @@ This Project Contains 2 Branch **Main**-where all the **Frontend of the Project 
 
 Project Preview: 
 
-https://github.com/user-attachments/assets/d0c054e9-a06d-480f-97bc-8d2720c70c55
-
 
 
 https://github.com/user-attachments/assets/3e55e6c3-28d7-4c73-a355-1edaf34f200b
